@@ -311,6 +311,10 @@ PadsSameType=0
 Layer=1
 
 [Win_2]
+Type="Control Panel"
+Number=0
+
+[Win_3]
 Type="Schematic Editor"
 Number=2
 File="initial_schematic.sch"
@@ -354,10 +358,6 @@ AddLevel=2
 PadsSameType=0
 Layer=91
 Sheet="1"
-
-[Win_3]
-Type="Control Panel"
-Number=0
 
 [Desktop]
 Screen="960 540"
